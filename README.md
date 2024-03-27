@@ -1,7 +1,7 @@
 ### oops my Name is Joao Vitor Lopes Vieira 👋
 
 
-<p align="center">I love programming, solving problems developing projects i discovering new things,  will become a great professional,  work in Front End Development focused on web development.</p>&nbsp;
+<p align="center">I love programming, solving problems i developing projects i discovering new things,  will become a great professional,  work in Front End Development focused on web development.</p>&nbsp;
 
  
  &nbsp;
