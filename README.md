@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I love Performing Tests and Programming, come and learn more about me.</p>&nbsp;
+I love Performing Tests and Programming, come to know more about me.</p>&nbsp;
 
  
  &nbsp;
