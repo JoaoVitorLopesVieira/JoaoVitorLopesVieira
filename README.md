@@ -2,7 +2,7 @@
 
 
 <p align="center">
-I love Performing Tests and Programming at The Same Time.</p>&nbsp;
+I love Performing Tests and Programming.</p>&nbsp;
 
  
  &nbsp;
