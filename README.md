@@ -32,7 +32,6 @@ I love performing tests and programming at the same time.</p>&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
 &nbsp;
-&nbsp;
 
 ## Contacts:
 
