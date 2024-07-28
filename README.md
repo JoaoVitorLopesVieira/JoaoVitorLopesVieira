@@ -21,6 +21,7 @@ I love Performing Tests and Programming at The Same Time.</p>&nbsp;
 ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Tailowind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
           
 
 
@@ -32,6 +33,7 @@ I love Performing Tests and Programming at The Same Time.</p>&nbsp;
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 
+&nbsp;
 &nbsp;
 
 ## Contacts:
