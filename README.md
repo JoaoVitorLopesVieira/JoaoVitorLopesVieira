@@ -48,6 +48,21 @@ I love Performing Tests and Programming, come to know more about me.</p>&nbsp;
     <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
 </div><br>
 
+🎭 Soft Skill:
+-  🤝 Trabalho em equipe
+-  💬 Comunicação
+-  🎨 Criatividade
+-  🔍 Atenção aos detalhes
+-  📚 DIdático
+-  📊 Habilidades analíticas
+-  🎤 Apresentação para clientes
+-  🖥️ Habilidades de apresentação
+-  🧠 Inteligência emocional 
+
+
+
+
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
