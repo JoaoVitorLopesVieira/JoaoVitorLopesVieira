@@ -28,8 +28,11 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 🔧 Ferramentas e Responsabilidades:
 
 -🔄 Shif-Lefting Tests
+
 -✍️🤖 Testes automatizados e manuais
+
 -📅 Planejamento, Estimativa, Documentação
+
 -🧪 Execução e Evidenciamento
 -✍️ BDD - Gherkin
 -🐞 Report, Gestão e Acompanhamento de bugs
