@@ -47,6 +47,9 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 
 -🤝 Contato com o Cliente
 
+
+
+
 -🔬 Técnicas de Testes:
 
 📦 Teste de Caixa Branca
