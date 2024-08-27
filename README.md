@@ -119,6 +119,9 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 <img align="center" src="https://skillicons.dev/icons?i=androidstudio"/><br><br>
 <img align="center" src="https://skillicons.dev/icons?i=gherkin"/>
  <img align="center" src="https://skillicons.dev/icons?i=c"/>
+   <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
+ <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"/><br><br>
+
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
