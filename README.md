@@ -24,6 +24,30 @@ I love Performing Tests and Programming, come to know more about me.</p>&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Cyprees](https://camo.githubusercontent.com/9859e24d4043dc48f155d14d1e9d12bf30e52c20a95a8ff14789971f4ca467a4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63797072657373)
 ![Robot-Framework](https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png)
+<div align="center">
+    <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
+    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png"/>
+        <img align="center" src="https://skillicons.dev/icons?i=gherkin"/>
+    <img align="center" src="https://skillicons.dev/icons?i=postman"/>
+    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
+    <img align="center" src="https://skillicons.dev/icons?i=androidstudio"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=javascript"/>
+    <img align="center" src="https://skillicons.dev/icons?i=html"/>
+    <img align="center" src="https://skillicons.dev/icons?i=css"/>
+    <img align="center" src="https://skillicons.dev/icons?i=python"/>
+    <img align="center" src="https://skillicons.dev/icons?i=c"/>
+    <img align="center" src="https://skillicons.dev/icons?i=markdown"/>
+    <img align="center" src="https://skillicons.dev/icons?i=wordpress"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=azure"/>
+    <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=git"/>
+    <img align="center" src="https://skillicons.dev/icons?i=github"/>
+    <img align="center" src="https://skillicons.dev/icons?i=bitbucket"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=vscode"/>
+    <img align="center" src="https://skillicons.dev/icons?i=pycharm"/><br><br>
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
+</div><br>
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
