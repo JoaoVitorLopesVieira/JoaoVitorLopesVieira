@@ -96,6 +96,7 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 <div align="center">
+ <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png"/>
     <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
     <img align="center" src="https://skillicons.dev/icons?i=postman"/>
     <img align="center" src="https://skillicons.dev/icons?i=javascript"/>
