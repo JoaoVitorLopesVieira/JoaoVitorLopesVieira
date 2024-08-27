@@ -48,6 +48,70 @@ I love Performing Tests and Programming, come to know more about me.</p>&nbsp;
     <img align="center" src="https://skillicons.dev/icons?i=linkedin"/>
 </div><br>
 
+📌 Objetivo:
+
+Compartilhar projetos de estudos e lhe ajudar.
+Fique a vontade para realizar clones e propor melhorias.
+Toda contribuição é bem vinda.
+Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
+📌 Conheça-me:
+
+➡️ Analista de Qualidade e Teste de Software - Q.A. ⬅️
+⚠️ Leia com atenção, aceita um ☕?! ⚠️
+
+🐞🎯 Analista de Qualidade e Teste de Software - Q.A. 🎯🐞
+
+🚀 Atuando com foco em prevenção de bugs, acredito ser possível transformar o mindset de uma equipe em prol da qualidade. Prevenir !> Reportar, bora testar?! 🛠️
+
+🔧 Ferramentas e Responsabilidades:
+
+🔄 Shif-Lefting Tests
+✍️🤖 Testes automatizados e manuais
+📅 Planejamento, Estimativa, Documentação
+🧪 Execução e Evidenciamento
+✍️ BDD - Gherkin
+🐞 Report, Gestão e Acompanhamento de bugs
+📝 Apoio ao P.O.
+🌀 Participação em cerimônias ágeis
+🔍 Proposição de melhoria contínua
+🤝 Contato com o Cliente
+🔬 Técnicas de Testes:
+
+📦 Teste de Caixa Branca
+⚫ Teste de Caixa Preta
+✅ Testes Funcionais
+🔍 Testes Exploratórios
+🔙 Testes de Regressão
+👁️ Testes de Usabilidade
+🌐 Testes de Websites
+📱 Teste de APK e Android
+🌐 Framework de Automação FronEnd:
+
+🌲 Cypress.io
+🥒 Cucumber
+🤖 Robot Framework
+🔙 Framework de Automação BackEnd - API:
+
+📬 Postman
+📄 Swagger
+💻 Linguagem de Programação:
+
+📜 JavaScript - HTML - CSS - Python - C - POO
+🛠️ Gerenciamento de Projetos:
+
+🌐 Azure Devops - Jira - Trello
+📷 Test Plans - Zephyr - QAlity Plus
+📚 Versionamento e Repositório de Códigos:
+
+🗂️ Git e Github
+📊 Banco de Dados:
+
+💾 SQL e Mongo DB
+⚙️ Metodologias ágeis:
+
+🏃 Scrum Framework e Kanban
+
+
 🎭 Soft Skill:
 -  🤝 Trabalho em equipe
 -  💬 Comunicação
