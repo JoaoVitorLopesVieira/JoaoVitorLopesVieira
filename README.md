@@ -34,12 +34,19 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 -📅 Planejamento, Estimativa, Documentação
 
 -🧪 Execução e Evidenciamento
+
 -✍️ BDD - Gherkin
+
 -🐞 Report, Gestão e Acompanhamento de bugs
+
 -📝 Apoio ao P.O.
+
 -🌀 Participação em cerimônias ágeis
+
 -🔍 Proposição de melhoria contínua
+
 -🤝 Contato com o Cliente
+
 -🔬 Técnicas de Testes:
 
 📦 Teste de Caixa Branca
