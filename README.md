@@ -50,13 +50,21 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 -🔬 Técnicas de Testes:
 
 📦 Teste de Caixa Branca
+
 ⚫ Teste de Caixa Preta
+
 ✅ Testes Funcionais
+
 🔍 Testes Exploratórios
+
 🔙 Testes de Regressão
+
 👁️ Testes de Usabilidade
+
 🌐 Testes de Websites
+
 📱 Teste de APK e Android
+
 🌐 Framework de Automação FronEnd:
 
 🌲 Cypress.io
