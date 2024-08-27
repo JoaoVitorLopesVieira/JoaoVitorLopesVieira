@@ -27,15 +27,15 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 🔧 Ferramentas e Responsabilidades:
 
 -🔄 Shif-Lefting Tests
--✍️🤖 Testes automatizados e manuais
--📅 Planejamento, Estimativa, Documentação
--🧪 Execução e Evidenciamento
--✍️ BDD - Gherkin
--🐞 Report, Gestão e Acompanhamento de bugs
--📝 Apoio ao P.O.
--🌀 Participação em cerimônias ágeis
--🔍 Proposição de melhoria contínua
--🤝 Contato com o Cliente
+- ✍️🤖 Testes automatizados e manuais
+- 📅 Planejamento, Estimativa, Documentação
+- 🧪 Execução e Evidenciamento
+- ✍️ BDD - Gherkin
+- 🐞 Report, Gestão e Acompanhamento de bugs
+- 📝 Apoio ao P.O.
+- 🌀 Participação em cerimônias ágeis
+- 🔍 Proposição de melhoria contínua
+- 🤝 Contato com o Cliente
 
 
 
@@ -45,16 +45,11 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 - ⚫ Teste de Caixa Preta
 - ✅ Testes Funcionais
 - 🔍 Testes Exploratórios
-
-🔙 Testes de Regressão
-
-👁️ Testes de Usabilidade
-
-🌐 Testes de Websites
-
-📱 Teste de APK e Android
-
-🌐 Framework de Automação FronEnd:
+- 🔙 Testes de Regressão
+- 👁️ Testes de Usabilidade
+- 🌐 Testes de Websites
+- 📱 Teste de APK e Android
+- 🌐 Framework de Automação FronEnd:
 
 🌲 Cypress.io
 🥒 Cucumber
