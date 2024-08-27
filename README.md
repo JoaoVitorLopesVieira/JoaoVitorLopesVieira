@@ -103,7 +103,6 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
     <img align="center" src="https://skillicons.dev/icons?i=html"/>
     <img align="center" src="https://skillicons.dev/icons?i=css"/>
     <img align="center" src="https://skillicons.dev/icons?i=python"/>
-    <img align="center" src="https://skillicons.dev/icons?i=c"/>
     <img align="center" src="https://skillicons.dev/icons?i=azure"/>
     <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"/><br><br>
     <img align="center" src="https://skillicons.dev/icons?i=git"/>
