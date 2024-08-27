@@ -27,17 +27,17 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 
 🔧 Ferramentas e Responsabilidades:
 
-🔄 Shif-Lefting Tests
-✍️🤖 Testes automatizados e manuais
-📅 Planejamento, Estimativa, Documentação
-🧪 Execução e Evidenciamento
-✍️ BDD - Gherkin
-🐞 Report, Gestão e Acompanhamento de bugs
-📝 Apoio ao P.O.
-🌀 Participação em cerimônias ágeis
-🔍 Proposição de melhoria contínua
-🤝 Contato com o Cliente
-🔬 Técnicas de Testes:
+-🔄 Shif-Lefting Tests
+-✍️🤖 Testes automatizados e manuais
+-📅 Planejamento, Estimativa, Documentação
+-🧪 Execução e Evidenciamento
+-✍️ BDD - Gherkin
+-🐞 Report, Gestão e Acompanhamento de bugs
+-📝 Apoio ao P.O.
+-🌀 Participação em cerimônias ágeis
+-🔍 Proposição de melhoria contínua
+-🤝 Contato com o Cliente
+-🔬 Técnicas de Testes:
 
 📦 Teste de Caixa Branca
 ⚫ Teste de Caixa Preta
