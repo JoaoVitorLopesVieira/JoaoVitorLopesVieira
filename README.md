@@ -52,6 +52,7 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 🌐 Framework de Automação FronEnd:
 - 🌲 Cypress.io
 - 🤖 Robot Framework
+- 🚀 Selenium
   
 🔙 Framework de Automação BackEnd - API:
 - 📬 Postman
