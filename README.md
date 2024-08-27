@@ -47,31 +47,32 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 - 👁️ Testes de Usabilidade
 - 🌐 Testes de Websites
 - 📱 Teste de APK e Android
-- 🌐 Framework de Automação FronEnd:
 
-🌲 Cypress.io
-🥒 Cucumber
-🤖 Robot Framework
+
+🌐 Framework de Automação FronEnd:
+- 🌲 Cypress.io
+- 🥒 Cucumber
+- 🤖 Robot Framework
+  
 🔙 Framework de Automação BackEnd - API:
-
-📬 Postman
-📄 Swagger
+- 📬 Postman
+- 📄 Swagger
+  
 💻 Linguagem de Programação:
-
-📜 JavaScript - HTML - CSS - Python - C - POO
+- 📜 JavaScript - HTML - CSS - Python - C - POO
+  
 🛠️ Gerenciamento de Projetos:
-
-🌐 Azure Devops - Jira - Trello
-📷 Test Plans - Zephyr - QAlity Plus
+- 🌐 Azure Devops - Jira - Trello
+- 📷 Test Plans - Zephyr - QAlity Plus
+  
 📚 Versionamento e Repositório de Códigos:
-
-🗂️ Git e Github
+- 🗂️ Git e Github
+  
 📊 Banco de Dados:
-
-💾 SQL e Mongo DB
+- 💾 SQL e Mongo DB
+  
 ⚙️ Metodologias ágeis:
-
-🏃 Scrum Framework e Kanban
+- 🏃 Scrum Framework e Kanban
 
 
 🎭 Soft Skill:
