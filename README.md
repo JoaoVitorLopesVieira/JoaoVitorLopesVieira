@@ -97,7 +97,6 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 
 <div align="center">
     <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
-    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png"/>
     <img align="center" src="https://skillicons.dev/icons?i=postman"/>
     <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
     <img align="center" src="https://skillicons.dev/icons?i=javascript"/>
@@ -120,7 +119,7 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 <img align="center" src="https://skillicons.dev/icons?i=markdown"/>
 <img align="center" src="https://skillicons.dev/icons?i=androidstudio"/><br><br>
 <img align="center" src="https://skillicons.dev/icons?i=gherkin"/>
-
+ <img align="center" src="https://skillicons.dev/icons?i=c"/>
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
