@@ -98,7 +98,7 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 <div align="center">
     <img align="center" src="https://skillicons.dev/icons?i=cypress"/>
     <img align="center" src="https://skillicons.dev/icons?i=postman"/>
-    <img align="center" height="50" width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"/>
+   
     <img align="center" src="https://skillicons.dev/icons?i=javascript"/>
     <img align="center" src="https://skillicons.dev/icons?i=html"/>
     <img align="center" src="https://skillicons.dev/icons?i=css"/>
