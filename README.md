@@ -51,7 +51,6 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 
 🌐 Framework de Automação FronEnd:
 - 🌲 Cypress.io
-- 🥒 Cucumber
 - 🤖 Robot Framework
   
 🔙 Framework de Automação BackEnd - API:
@@ -59,7 +58,7 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 - 📄 Swagger
   
 💻 Linguagem de Programação:
-- 📜 JavaScript - HTML - CSS - Python - C - POO
+- 📜 JavaScript - HTML - CSS - Python - Bootstrap - Tailwind css - Bulma
   
 🛠️ Gerenciamento de Projetos:
 - 🌐 Azure Devops - Jira - Trello
@@ -69,7 +68,7 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 - 🗂️ Git e Github
   
 📊 Banco de Dados:
-- 💾 SQL e Mongo DB
+- 💾 SQL 
   
 ⚙️ Metodologias ágeis:
 - 🏃 Scrum Framework e Kanban
