@@ -19,7 +19,6 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 📌 Conheça-me:
 
 ➡️ Analista de Qualidade e Teste de Software - Q.A. ⬅️
-⚠️ Leia com atenção, aceita um ☕?! ⚠️
 
 🐞🎯 Analista de Qualidade e Teste de Software - Q.A. 🎯🐞
 
@@ -42,14 +41,10 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 
 
 -🔬 Técnicas de Testes:
-
-📦 Teste de Caixa Branca
-
-⚫ Teste de Caixa Preta
-
-✅ Testes Funcionais
-
-🔍 Testes Exploratórios
+- 📦 Teste de Caixa Branca
+- ⚫ Teste de Caixa Preta
+- ✅ Testes Funcionais
+- 🔍 Testes Exploratórios
 
 🔙 Testes de Regressão
 
