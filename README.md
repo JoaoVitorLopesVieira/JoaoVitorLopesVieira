@@ -26,7 +26,7 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 
 🔧 Ferramentas e Responsabilidades:
 
--🔄 Shif-Lefting Tests
+- 🔄 Shif-Lefting Tests
 - ✍️🤖 Testes automatizados e manuais
 - 📅 Planejamento, Estimativa, Documentação
 - 🧪 Execução e Evidenciamento
@@ -38,9 +38,7 @@ Caso consiga, deixa uma estrelinha no repositório por favor, isso ajuda muito!
 - 🤝 Contato com o Cliente
 
 
-
-
--🔬 Técnicas de Testes:
+🔬 Técnicas de Testes:
 - 📦 Teste de Caixa Branca
 - ⚫ Teste de Caixa Preta
 - ✅ Testes Funcionais
